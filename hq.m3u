@@ -1,0 +1,36 @@
+#EXTM3U
+#EXTINF:-1, ATV HD
+rtmp://146.0.32.43:1935/hls/1
+
+#EXTINF:-1, KANALTÜRK HD
+rtmp://146.0.32.43:1935/hls/2
+
+#EXTINF:-1, BUGÜN HD
+rtmp://146.0.32.43:1935/hls/3
+
+#EXTINF:-1, SHOW TV HD
+rtmp://146.0.32.43:1935/hls/4
+
+#EXTINF:-1, TV 8 HD
+rtmp://146.0.32.43:1935/hls/6
+
+#EXTINF:-1, FOX TV HD
+rtmp://146.0.32.43:1935/hls/7
+
+#EXTINF:-1, SAMANYOLU HD
+rtmp://146.0.32.43:1935/hls/8
+
+#EXTINF:-1, TRT 1 HD
+rtmp://146.0.32.43:1935/hls/9
+
+#EXTINF:-1, STAR TV
+rtmp://146.0.32.43:1935/hls/10
+
+#EXTINF:-1, NTV
+rtmp://146.0.32.43:1935/hls/11
+
+#EXTINF:-1, CNN TÜRK HD
+rtmp://146.0.32.43:1935/hls/12
+
+#EXTINF:-1, KANAL D
+rtmp://146.0.32.43:1935/hls/13
